@@ -9,6 +9,7 @@
           <li>🌱 <b>I’m currently learning</b>: Computer Science and business.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving</a>, ⭐️  .</li>
             <li>😄 <b>Fun fact</b>: I love painting , Codeing(💻).</li>
+            
 <hr width="36%" >
 
 
@@ -34,14 +35,25 @@
 <p align="left">
 
 
-<a href="https://www.instagram.com/amar.aldaher3.7?igsh=MTlmcGp2d2Z2eHVtNA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-</p>
+
+
+
+
+
+ <a href="https://www.instagram.com/amar.aldaher3.7" target="_blank">
+      <img align="center" alt="amar daher | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      </a> &nbsp;&nbsp;
+      <a href="mailto:amardaher9@gmail.com" >
+      <img align="center" alt="amar daher | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
+
 <br>
         <ul>
         
            
           
-       
+   
+
 
 
 ------
