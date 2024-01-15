@@ -8,7 +8,7 @@
 <li>🌱 I’m currently learning **WEB Development ** </li>
           <li>🌱 <b>I’m currently learning</b>: Computer Science and business.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving</a>, ⭐️  .</li>
-            <li>😄 <b>Fun fact</b>: I love draw , Codeing(💻), and Photography(📷).</li>
+            <li>😄 <b>Fun fact</b>: I love painting , Codeing(💻).</li>
 <hr width="36%" >
 
 
