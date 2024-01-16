@@ -7,8 +7,7 @@
 
 <li>🌱 I’m currently learning **WEB Development ** </li>
           <li>🌱 <b>I’m currently learning</b>: Computer Science and business.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving</a>, ⭐️  .</li>
-            <li>😄 <b>Fun fact</b>: I love painting , Codeing(💻).</li>
+        
             
 <hr width="36%" >
 
@@ -45,7 +44,7 @@
       </a> &nbsp;&nbsp;
       <a href="mailto:amardaher9@gmail.com" >
       <img align="center" alt="amar daher | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
+      </a> 
 
 <br>
         <ul>
